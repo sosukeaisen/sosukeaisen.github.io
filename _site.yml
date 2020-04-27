@@ -1,0 +1,6 @@
+name: "my-website"
+navbar:
+  title: "Assignment 1 Website"
+  left:
+    - text: "Home"
+      href: index.html
